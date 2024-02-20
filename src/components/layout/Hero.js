@@ -23,7 +23,7 @@ const Hero = () => {
             <Right />
           </button>
 
-          <button className="flex gap-2 text-gray-600 font-semibold px-4 py-2 rounded-full">
+          <button className="flex items-center border-0 gap-2 text-gray-600 font-semibold px-4 py-2 rounded-full">
             Learn More
             <Right />
           </button>
